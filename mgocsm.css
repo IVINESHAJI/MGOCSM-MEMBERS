@@ -91,3 +91,9 @@ html,body{
     filter: blur(60px);
 }
 
+@media only screen and (max-width:3000px) {
+    html,body{
+        margin: 0px;
+        padding: 0px;
+    }
+}
