@@ -92,7 +92,7 @@ html,body{
 }
 
 @media only screen and (max-width:3000px) {
-    html,body{
+    .html,body{
         margin: 0px;
         padding: 0px;
     }
